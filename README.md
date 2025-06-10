@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
+| [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ameerali2006/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
+| [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
