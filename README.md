@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/ameerali2006/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
