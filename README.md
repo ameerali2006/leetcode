@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ameerali2006/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ameerali2006/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ameerali2006/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ameerali2006/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ameerali2006/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
