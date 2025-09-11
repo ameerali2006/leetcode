@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2887-sort-vowels-in-a-string](https://github.com/ameerali2006/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ameerali2006/leetcode/tree/master/0125-valid-palindrome) |
+| [2887-sort-vowels-in-a-string](https://github.com/ameerali2006/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Interactive
 |  |
 | ------- |
