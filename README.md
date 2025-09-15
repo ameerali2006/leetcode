@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ameerali2006/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ameerali2006/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ameerali2006/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ameerali2006/leetcode/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ameerali2006/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ameerali2006/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
