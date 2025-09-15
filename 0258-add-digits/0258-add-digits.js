@@ -4,7 +4,7 @@
  */
 var addDigits = function(num) {
     let str=num.toString()
-    while(str.length>1){
+    while(str.length > 1){
         let num=str.split("").reduce((a,b)=>a+Number(b),0)
         str=num.toString()
     }
