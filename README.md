@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/ameerali2006/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ameerali2006/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ameerali2006/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [4107-find-missing-elements](https://github.com/ameerali2006/leetcode/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [4107-find-missing-elements](https://github.com/ameerali2006/leetcode/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/ameerali2006/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2887-sort-vowels-in-a-string](https://github.com/ameerali2006/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ameerali2006/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [4107-find-missing-elements](https://github.com/ameerali2006/leetcode/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
