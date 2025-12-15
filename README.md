@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1791-richest-customer-wealth](https://github.com/ameerali2006/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/ameerali2006/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ameerali2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ameerali2006/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ameerali2006/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ameerali2006/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ameerali2006/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ameerali2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ameerali2006/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ameerali2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ameerali2006/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2887-sort-vowels-in-a-string](https://github.com/ameerali2006/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ameerali2006/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
