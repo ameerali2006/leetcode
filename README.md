@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ameerali2006/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ameerali2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ameerali2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ameerali2006/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ameerali2006/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ameerali2006/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ameerali2006/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ameerali2006/leetcode/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
