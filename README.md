@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ameerali2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ameerali2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/ameerali2006/leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/ameerali2006/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0978-valid-mountain-array](https://github.com/ameerali2006/leetcode/tree/master/0978-valid-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameerali2006/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1791-richest-customer-wealth](https://github.com/ameerali2006/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameerali2006/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ameerali2006/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ameerali2006/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
